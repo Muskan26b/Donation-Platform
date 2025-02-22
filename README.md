@@ -1,3 +1,7 @@
+## 🎨 UI Design & Prototype  
+View my full UI design and prototype in Figma:  
+[Click Here]
+https://www.figma.com/proto/NP1jr4mI9JTfcbOoOiN0zI/Donation-platform?node-id=0-1&t=bUhoOvXmRknWBCLv-1
 # Donation-Platform UI/UX Design
 
 
